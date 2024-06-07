@@ -1,0 +1,29 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HomeContentPreviousRulings.vue > renders correctly 1`] = `
+<aside
+  aria-label="Previous Rulings"
+  class="content content-previous-rulings"
+  role="doc-tip"
+>
+  <h1
+    class="content__title"
+  >
+     Previous Rulings 
+  </h1>
+  <div
+    class="content__viewPicker"
+    tabindex="0"
+  >
+    <div
+      class="selected"
+    />
+    <div
+      class="items selectHide"
+    >
+      
+      
+    </div>
+  </div>
+</aside>
+`;

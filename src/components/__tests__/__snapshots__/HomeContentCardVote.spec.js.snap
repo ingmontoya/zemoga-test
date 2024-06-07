@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HomeContentCardVote.vue > renders correctly 1`] = `
+<div
+  class="flex flex-row mt-4 gap-2 grid grid-cols-2 lg:grid-cols-3"
+>
+  
+  
+</div>
+`;
